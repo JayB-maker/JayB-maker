@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayB-maker)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JayB-maker)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayB-maker&show_icons=true&theme=transparent)
 
 - 🌱 I’m currently learning Next Js
 - 👯 I’m looking to collaborate on any open source project
