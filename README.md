@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JayB-maker)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats-ruby-one)
+[![Anurag's GitHub stats](https://github.com/PencilNavigator/readme-stats-URL/blob/main/URL.md/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 I’m currently learning Next Js
 - 👯 I’m looking to collaborate on any open source project
