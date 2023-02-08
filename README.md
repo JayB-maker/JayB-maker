@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:
 -->
-<p align='center'>
+<p>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JayB-maker&hide=&theme=blue-green">
 </p>
 
-<p align='center'>
+<p>
 <img src= "https://github-readme-stats.vercel.app/api?username=JayB-maker&show_icons=true&theme=radical">
 </p>
 
