@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JayB-maker)](https://git.io/streak-stats)
 
-- 🌱 I’m currently learning Next Js
+- 🌱 I’m currently learning Node Js
 - 👯 I’m looking to collaborate on any open source project
 - 📫 How to reach me: ajiboyeabiodun001@gmail.com
 - 😄 Pronouns: he/him/his
