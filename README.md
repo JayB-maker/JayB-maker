@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 <p>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JayB-maker&hide=&theme=blue-green">
-<img src= "https://github-readme-stats.vercel.app/api?username=JayB-maker&show_icons=true&theme=radical">
+<img style={{height:"100%"}} src= "https://github-readme-stats.vercel.app/api?username=JayB-maker&show_icons=true&theme=radical">
 </p>
 
 <p>
