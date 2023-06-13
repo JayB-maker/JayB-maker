@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any open source project
 - 📫 How to reach me: ajiboyeabiodun001@gmail.com
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I love travelling
+- ⚡ Fun fact: I have a fear of heights, but I absolutely enjoy hiking 😂
